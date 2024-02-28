@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JetpackComposeSample</string>
+    <string name="login">Login</string>
+    <string name="forget_pass">Forget Password</string>
 </resources>
